@@ -18,13 +18,10 @@ To implement simple linear regression using sklearn.
 
 ## Program:
 ```
-/*
 Program to implement univariate Linear Regression to fit a straight line using least squares.
 Developed by: K ADHITHYA
 RegisterNumber: 2305002001
-*/
-```
-```
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
